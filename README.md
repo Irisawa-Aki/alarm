@@ -1,2 +1,2 @@
 # alarm
-自作アラームアプリ
+入力した言葉の音声が出るAndroidのアラームアプリCancel changes
